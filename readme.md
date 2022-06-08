@@ -15,3 +15,7 @@ PLANNED FEATURES:
 
 KNOWN ISSUES:
 - Null
+
+DOWNLOAD:
+You can download the project from this link here, pre-packaged for your OS.
+https://github.com/tjsanzen/SupportDesk/releases
