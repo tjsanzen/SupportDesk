@@ -1,12 +1,12 @@
 {
   "type": "service_account",
   "project_id": "python-helpdesk",
-  "private_key_id": "c5f2838ad0e9a9e4c9225c3fd0d3d90bbea8deec",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCdqF3gqf9ueBCT\nv+BcWOdn5Msia3BNv+6OLece3MT19bbV06MefwmbYOplSHR7FjoFR5tQ5Q0C/xfH\nzuSrg87TqsG6lV8Tx2fCugzK3UXBB2VLyyYxUK12U4pggaewqUoQUwAnXsx/0qiM\nlDoWxzVTgj2/QjwfVV60xP2tXDkYA8reJdw35k6l0ULv/Y+aNR/zgiGjpP3tih9y\nU+qt4Sxm8cACpR6IjmUUuANxQ3fe1+Qgr8vtrLPZOmxBTEu8mQ2N6ZGnofqke7cI\nZ1P3GJ8HyHSRUV8mlVZrgM5XLmuuGFylqnLNeb/8Ng1MI7KW1cjWP9h1iFWJfCIK\nE9u4LKe7AgMBAAECggEACII6ttJV789ZDbBQWouNyaSmdfAYeom+RTwi+h5uHtwp\nBvdKGW4/xXwAioDTkIUNkpVfw4jpH91GmkkHPF57vh68H+bJ39ZmOjMyV4yDpDxS\n8jk/kW/KPNWbZUP6GeW5EpJ4MqfCH6/t2tBxJiOQNDaWQIlBl2tTFix/iGiuyCXu\nhfKTNfKCS5lBU255tI++fL3nH/P85m3jHOArin2bf6mAnHcerUm60hZta+7ZJovK\nO6SEVpL6KYzrphwrU3jvBQ0eqPweemUXMh6k58r3utjsDWqyAS8mn2B35M3o5AWV\nl1hy16mhyGvtWX+mLZTK9RbCdGcLRHrd44ygra3BQQKBgQDVt6l66Cs98pl3MhvW\nDG03sAK7eH+cDERs1KIjIpgmK4tsrW18xF3eR+cg35zk5o1Kjni5bpdjTQOe5ccE\nqmYkdq3NGyP/Al7HbpLORsXXsgNml04eVRBz1Ft94NAOS5XUYe8AhWyD5NX+QvYq\nFfNjwkksLiBAKml0ET3U8bLNIQKBgQC82WV/T3Yk4rrzI0wcM7XhtulxLi1/0Gxz\n9Dzb+qnwWr07O8KDszlGwk2gm1RrWcnbHTLNqJrxZ7rOAbaJCHtAqzxeIHK7G4WN\nJufq6d9xb6I/h+QsMxKv40fRowo2KTmH+urXGHcXUc4W5Oqt+nslLVD2BSUV6Zge\nDhPkl0EdWwKBgFX+OqGLvaqFbR66+Nxdz6xylAbe62ncvcOUo1DD4LirGMS327Ay\nSxrfj654i2bHJd70CLuENkHsgSJ0jmngLo1Je5Fl9EvtpjlU0plRfNXXeOrUwsgN\nrjsNHWs/BDhcTYNRjJuHFCzV7Q0L4IT6pB5l1I+EV9G5vwjGzzxZrHpBAoGAakif\nyurZvyCrvrMa3rRrpMDg2QX4LXsLzqaiqduFUPSAk5mqe5yem6g3MDC7bj92T487\nTGub6ElM5Swpoy3W0CqPKxpv98Yhf7NpytgdHSaK1d6RGB8WYU802FM+KAVDj7gz\n+yKVw9YSeugS/B+AtweuDQgQOyjgp+mcYIaP6wkCgYEAzUVvfOUFU+jsk+x8ogf1\nIjHG1nuHxQa9u8jRuPH544P2GzPYUA1dv8dbmUl+2sP9PT/Cm+RlehsDQXEx17TN\njDiyUKG1MtenL9brJntp+AC1NUWyEJuFdUQkltWwOH0hppXV/XEhCADFejgrpx4W\nolMVomUvKFjGSzLt/rFZKfs=\n-----END PRIVATE KEY-----\n",
-  "client_email": "python-helpdesk@python-helpdesk.iam.gserviceaccount.com",
-  "client_id": "110929360012948752051",
+  "private_key_id": "###",
+  "private_key": "###",
+  "client_email": "###",
+  "client_id": "###",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-helpdesk%40python-helpdesk.iam.gserviceaccount.com"
+  "client_x509_cert_url": "###"
 }
